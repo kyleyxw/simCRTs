@@ -6,10 +6,10 @@ Simulation comparison of clustered survival models in CRTs
 2. Permutation test: permutation.R & permutation_plot_typeIerror.R
 
 ## Statistical Power Files
-1. Monte Carlo simulations to approximate true value of $\beta$: true_beta.R
+1. Monte Carlo simulations to approximate true value of beta: true_beta.R
 2. Model-based statistical power: modelbased_power.R & modelbased_plot_power.R
 3. Permutation test: permutation.R & permutation_plot_power.R
 
 ## Supplementary File
-1. Example cluster size: STRIDE_cluster_sizes.txt
+1. Cluster size from STRIDE[https://www.stride-study.org] study: STRIDE_cluster_sizes.txt
 
