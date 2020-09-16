@@ -11,5 +11,5 @@ Simulation comparison of clustered survival models in CRTs
 3. Permutation test: *permutation.R & permutation_plot_power.R*
 
 ## Supplementary File
-1. Cluster size from STRIDE[https://www.stride-study.org] study: *STRIDE_cluster_sizes.txt*
+1. Cluster size from [STRIDE](https://www.stride-study.org) study: *STRIDE_cluster_sizes.txt*
 
